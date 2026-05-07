@@ -1,0 +1,6 @@
+Title: Grocery Shopping
+Description: Going to DMART to buy grocery items like vegetables, fruits, utensils etc... Need to go grocery shopping for this week. I should buy basics like milk, bread, and eggs, and also checking the prices of rice bags or cooking oil. I will pick fresh vegetables like tomatoes, onions, and potatoes, and maybe a few fruits like bananas and apples. Also need to see if we need things like sugar, salt, or any spices. Try to choose good quality items and not overspend. Don’t forget to carry bags and double-check everything before leaving the store.
+Category: Home
+Completed: False
+Created At: 2026-05-05T17:24:56.762Z
+Updated At: 2026-05-05T17:47:17.657Z

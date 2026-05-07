@@ -1,0 +1,34 @@
+| Title | Description | Category | Completed | Created At |
+|-------|-------------|----------|-----------|------------|
+| E2E Validation Note | E2E Verifying end-to-end functionality | Home | No | 2026-05-06T16:54:00.677Z |
+| UI Validation Note | Verifying note creation functionality | Home | No | 2026-05-06T16:53:12.626Z |
+| API E2E 1778085149 | Created through API | Home | No | 2026-05-06T16:32:32.703Z |
+| E2E Validation Note | E2E Verifying end-to-end functionality | Home | No | 2026-05-06T16:22:59.444Z |
+| UI Validation Note | Verifying note creation functionality | Home | No | 2026-05-06T16:22:12.003Z |
+| E2E Validation Note | E2E Verifying end-to-end functionality | Home | No | 2026-05-06T16:16:42.838Z |
+| UI Validation Note | Verifying note creation functionality | Home | No | 2026-05-06T16:14:46.109Z |
+| E2E Validation Note | E2E Verifying end-to-end functionality | Home | No | 2026-05-06T16:10:42.417Z |
+| UI Validation Note | Verifying note creation functionality | Home | No | 2026-05-06T16:10:15.993Z |
+| E2E Validation Note | E2E Verifying end-to-end functionality | Home | No | 2026-05-06T16:06:05.239Z |
+| UI Validation Note | Verifying note creation functionality | Home | No | 2026-05-06T16:04:49.724Z |
+| E2E Validation Note | E2E Verifying end-to-end functionality | Home | No | 2026-05-06T15:55:49.216Z |
+| UI Validation Note | Verifying note creation functionality | Home | No | 2026-05-06T15:54:57.899Z |
+| E2E Validation Note | E2E Verifying end-to-end functionality | Home | No | 2026-05-06T15:50:57.145Z |
+| UI Validation Note | Verifying note creation functionality | Home | No | 2026-05-06T15:50:32.489Z |
+| E2E Validation Note | E2E Verifying end-to-end functionality | Home | No | 2026-05-06T15:47:52.674Z |
+| UI Validation Note | Verifying note creation functionality | Home | No | 2026-05-06T15:47:18.426Z |
+| E2E Validation Note | E2E Verifying end-to-end functionality | Home | No | 2026-05-06T15:41:11.605Z |
+| UI Test | UI Description | Home | No | 2026-05-06T15:40:45.987Z |
+| E2E Validation Note | E2E Verifying end-to-end functionality | Home | No | 2026-05-06T15:37:31.703Z |
+| UI Test | UI Description | Home | No | 2026-05-06T15:37:08.300Z |
+| E2E Title | E2E Desc | Home | No | 2026-05-06T15:25:58.532Z |
+| UI Test | UI Description | Home | No | 2026-05-06T15:25:25.659Z |
+| E2E Title | E2E Desc | Home | No | 2026-05-06T15:21:46.236Z |
+| UI Test | UI Description | Home | No | 2026-05-06T15:20:15.346Z |
+| Calling to parents | Everyday calling to parents at 8:00PM | Personal | Yes | 2026-05-05T17:39:12.643Z |
+| Major project completion | completing major project and showing results and doing documentation and printing the books and keep ready for presentation. | Work | Yes | 2026-05-05T18:06:29.993Z |
+| Project work | Completing manual testing part from the project of section1 and API automation from section 2. | Work | Yes | 2026-05-05T17:58:50.716Z |
+| Reading Story books | I want to start reading story books regularly. Even if it’s just a little every day, it will help me relax and enjoy some time. I will try to make it a daily habit, especially in the evening or before going to sleep. | Personal | No | 2026-05-05T17:54:28.071Z |
+| Grocery Shopping | Going to DMART to buy grocery items like vegetables, fruits, utensils etc... Need to go grocery shopping for this week. I should buy basics like milk, bread, and eggs, and also checking the prices of rice bags or cooking oil. I will pick fresh vegetables like tomatoes, onions, and potatoes, and maybe a few fruits like bananas and apples. Also need to see if we need things like sugar, salt, or any spices. Try to choose good quality items and not overspend. Don’t forget to carry bags and double-check everything before leaving the store. | Home | No | 2026-05-05T17:24:56.762Z |
+| House cleaning | Kitchen cleaning, Bedroom cleaning, Organizing tables | Home | Yes | 2026-05-05T17:05:35.380Z |
+| Gardening | Cutting waste plants, Watering the plants | Home | No | 2026-05-05T17:27:11.003Z |

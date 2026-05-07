@@ -1,0 +1,6 @@
+Title: Project work
+Description: Completing manual testing part from the project of section1 and API automation from section 2.
+Category: Work
+Completed: True
+Created At: 2026-05-05T17:58:50.716Z
+Updated At: 2026-05-05T17:58:50.716Z

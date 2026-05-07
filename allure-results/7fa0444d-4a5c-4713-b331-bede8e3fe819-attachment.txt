@@ -1,0 +1,24 @@
+| Title | Description | Category | Completed | Created At |
+|-------|-------------|----------|-----------|------------|
+| UI Test | UI Description | Home | No | 2026-05-06T10:45:07.080Z |
+| API E2E 1778064280 | Created through API | Home | No | 2026-05-06T10:44:41.240Z |
+| UI Test | UI Description | Home | No | 2026-05-06T10:43:05.627Z |
+| API E2E 1778064173 | Created through API | Home | No | 2026-05-06T10:42:53.532Z |
+| E2E Title | E2E Desc | Home | No | 2026-05-06T10:41:48.738Z |
+| API E2E 1778064045 | Created through API | Home | No | 2026-05-06T10:40:45.430Z |
+| E2E Title | E2E Desc | Home | No | 2026-05-06T10:28:46.651Z |
+| UI Test | UI Description | Home | No | 2026-05-06T10:28:21.165Z |
+| E2E Title | E2E Desc | Home | No | 2026-05-06T10:23:23.697Z |
+| UI Test | UI Description | Home | No | 2026-05-06T10:22:58.476Z |
+| E2E Title | E2E Desc | Home | No | 2026-05-06T10:17:09.277Z |
+| UI Test | UI Description | Home | No | 2026-05-06T10:16:39.372Z |
+| Automation Note | Created using Selenium | Home | No | 2026-05-06T04:06:00.358Z |
+| Automation Note | Created using Selenium | Home | No | 2026-05-06T04:02:57.437Z |
+| Automation Note | Created using Selenium | Home | No | 2026-05-06T03:59:16.114Z |
+| Calling to parents | Everyday calling to parents at 8:00PM | Personal | Yes | 2026-05-05T17:39:12.643Z |
+| Major project completion | completing major project and showing results and doing documentation and printing the books and keep ready for presentation. | Work | Yes | 2026-05-05T18:06:29.993Z |
+| Project work | Completing manual testing part from the project of section1 and API automation from section 2. | Work | Yes | 2026-05-05T17:58:50.716Z |
+| Reading Story books | I want to start reading story books regularly. Even if it’s just a little every day, it will help me relax and enjoy some time. I will try to make it a daily habit, especially in the evening or before going to sleep. | Personal | No | 2026-05-05T17:54:28.071Z |
+| Grocery Shopping | Going to DMART to buy grocery items like vegetables, fruits, utensils etc... Need to go grocery shopping for this week. I should buy basics like milk, bread, and eggs, and also checking the prices of rice bags or cooking oil. I will pick fresh vegetables like tomatoes, onions, and potatoes, and maybe a few fruits like bananas and apples. Also need to see if we need things like sugar, salt, or any spices. Try to choose good quality items and not overspend. Don’t forget to carry bags and double-check everything before leaving the store. | Home | No | 2026-05-05T17:24:56.762Z |
+| House cleaning | Kitchen cleaning, Bedroom cleaning, Organizing tables | Home | Yes | 2026-05-05T17:05:35.380Z |
+| Gardening | Cutting waste plants, Watering the plants | Home | No | 2026-05-05T17:27:11.003Z |

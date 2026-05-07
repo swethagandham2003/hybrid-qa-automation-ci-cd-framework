@@ -1,0 +1,6 @@
+Title: Major project completion
+Description: completing major project and showing results and doing documentation and printing the books and keep ready for presentation.
+Category: Work
+Completed: True
+Created At: 2026-05-05T18:06:29.993Z
+Updated At: 2026-05-05T18:06:29.993Z
