@@ -4,7 +4,7 @@ pipeline {
     stages {
         stage('Checkout') {
             steps {
-                git branch: 'main', url: 'https://github.com/swethagandham2003/notes-app-automation-framework.git'
+                git branch: 'main', url: 'https://github.com/swethagandham2003/hybrid-qa-automation-ci-cd-framework.git'
             }
         }
 
